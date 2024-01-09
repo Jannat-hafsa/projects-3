@@ -1,0 +1,330 @@
+/* banner-1 start */
+.banner-1-contrainer{
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    background-image: url(./resources/Banner\ Image.png);
+    width: 1320px;
+    height: 600px;
+    margin-left: 140px; 
+    text-align: center;
+    color: white;
+    gap: 16px;
+}
+
+.banner-1-heading{
+    font-size: 32px;
+    font-weight: 400px;
+    text-align: center;
+}
+.banner-1-title{
+    font-size: 72px;
+    font-weight: 900px;
+    line-height: 95px;
+    margin: 233px 344px 180px 344px;
+}
+/* banner1 end */
+/* banner 2 start */
+.banner-2{
+    margin-left: 140px;
+    align-items: center;
+}
+.banner-2-heading{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.banner-2-title{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.banner-2-title-2{
+    color: #070211;
+
+
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.banner-2-image{
+ width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+color:  lightgray 50% / cover no-repeat;
+margin-left: 320px;
+}
+/* banner-2-end */
+/* banner-3-start */
+.banner-3-contrainer{
+    background-image: url(./resources/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    margin-left: 140px;
+    margin-top: 100px;
+    
+}
+.banner-3-title{
+    color: rgba(255, 255, 255, 0.80);
+
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+margin-left: 100px;
+}
+.banner-3-heading{
+    color: #FFF;
+
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+margin-left: 100px;
+}
+.banner-3-button{
+    padding: 15px;
+    border-radius: 20px;
+    border: none;
+   background-color: #070211;
+   color: #FFF;
+   margin-left: 100px;
+}
+/* banner-3-end */
+/* banner-4-start */
+.banner-4-contrainer{
+    margin-left: 140px;
+    width: 1320px;
+    height: 482px;
+    text-align: center;
+}
+.banner-4-title{
+   text-align: center;
+   font-family: Inter;
+   font-size: 32px;
+   font-style: normal;
+   font-weight: 600;
+   line-height: 56px; /* 175% */
+   text-transform: capitalize;
+}
+.banner-4-button{
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border: none;
+    border-radius: 8px;
+    background-color: red;
+}
+/* banner-4-end */
+/* banner-5-start */
+.banner-5-contrainer{
+    display: flex;
+    justify-content: space-between;
+    width:1320px;
+    align-items: center;
+    margin-left: 140px;
+    gap: 100px;
+    background-color: antiquewhite;
+}
+.banner-5-img-1{
+    max-width: 500px;
+    width: 364.844px;
+    height: 364.844px;
+    border-radius: 463px;
+    border: 15px solid #F00;
+}
+.banner-5-title{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-bottom:-20px;
+margin-left: 0px;
+margin-right: 65px;
+margin-top: 100px;
+}
+.banner-5-heading{
+    color: #070211;
+    margin-left: 40px;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+margin-bottom: -20px;
+}
+.banner-5-description{
+    color: rgba(7, 2, 17, 0.60);
+    margin-left: 40px;
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.banner-5-heading-2{
+    color: #F00;
+
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.banner-5-description-2{
+    margin-bottom: -20px;
+    color: rgba(7, 2, 17, 0.60);
+    margin-top: 50px;
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
+/* banner-5-end */
+/* banner-6-start */
+/* banner-6-end */
+/* banner-7-start */
+.banner-7-contrainer{
+    margin-left: 140px;
+    margin-top: 120px;
+}
+.banner-7-title{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.banner-7-heading{
+    color: #070211;
+
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.banner-7-description{
+    color: rgba(7, 2, 17, 0.60);
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
+.banner-7-contrainer :hover{
+    padding: 5px;
+}
+/* banner-7-end */
+/* banner-8-start */
+.banner-8{
+ width: 1320px;
+ height: 616px;
+ align-items: center;
+ margin-left: 140px;
+ margin-top: 120px;
+}
+.banner-8-heading{
+    color: #070211;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.banner-8-description{
+    color: rgba(7, 2, 17, 0.60);
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
+.banner-8-input{
+    width: 500px;
+height: 70px;
+flex-shrink: 0;
+border-radius: 50px 0px 0px 50px;
+background: #FFF;
+border: none;
+margin-left: 20%;
+}
+.banner-8-button{
+    width: 210px;
+height: 70px;
+flex-shrink: 0;
+border-radius: 0px 50px 50px 0px;
+background: #F00;
+border: none;
+margin-right: 4px;
+color: #FFF;
+}
+.banner-8-img{
+    align-items: center;
+    width: 150px;
+height: 150px;
+flex-shrink: 0;
+margin-left: 40%;
+}
+/* banner-8-end */
+/* banner-9-start */
+.banner-9-contrainer{
+    background-color: #070211;
+    display: flex;
+    width: 1600px;
+    height: 609px;
+    justify-content: space-around;
+}
+
+.banner-9-icon{
+  display: inline-block;
+  color: #FFF;
+  max-height: 20px;
+}
+.banner-9-description{
+    color: #FFF;
+}
+.banner-9-contrainer{
+   table-layout: auto;
+  color: #FFF;
+}
+.banner-9-rectangle-1{
+    width: 1320px;
+    height: 1px;
+    background-color: aqua;
+    margin-top: 100px;
+    margin-right: 200px;
+    align-items: center;
+    display: block;
+}
