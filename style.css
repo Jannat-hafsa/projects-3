@@ -8,10 +8,15 @@
     margin-left: 140px; 
     text-align: center;
     color: white;
-    align-items: center;
+    gap: 16px;
+}
+
+.banner-1-heading{
+    font-size: 32px;
+    font-weight: 400px;
+    text-align: center;
 }
 .banner-1-title{
-    margin-top: 20px;
     font-size: 72px;
     font-weight: 900px;
     line-height: 95px;
@@ -237,6 +242,9 @@ line-height: 32px;
 }
 .banner-7-contrainer :hover{
     padding: 5px;
+}
+.banner-5-img-2{
+    margin-top: 10px;
 }
 /* banner-7-end */
 /* banner-8-start */
